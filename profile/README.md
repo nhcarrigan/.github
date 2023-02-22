@@ -1,5 +1,7 @@
 # NHCarrigan
 
+![NHCarrigan Banner](https://cdn.nhcarrigan.com/banners/nhcarrigan.png)
+
 We are a software consultancy and community management firm.
 
 We have two very specific missions:
