@@ -18,5 +18,3 @@ We are currently a sole-proprietorship, but we have big plans to expand into an 
 ## Contact
 
 We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`.
-
-Looking for our projects???? We've moved! https://codeberg.org/nhcarrigan/
